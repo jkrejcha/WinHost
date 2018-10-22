@@ -2,11 +2,11 @@
 
 Note: This repository is not affiliated with Mark, Sysinternals, or Microsoft.
 
-##What is this?
+## What is this?
 
 This is a replica version of the application called the "Windows Host Support Service" (also known as "winhost" or "buddy") that was used in the Malware Hunting with the Sysinternals Tools talks. It is used to demonstrate properties of malware and some characteristics that they show?
 
-##What characteristics are we looking for?
+## What characteristics are we looking for?
 
 From the PowerPoint, characteristics to look for are processes that:
 * ...have no icon.
